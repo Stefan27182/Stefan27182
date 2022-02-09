@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Stefan27182
-- 👀 I’m interested in automating business processes through Robotic Process Automation, utilizing Power Automate for the low code/no code
-parts, and then utilizing Python and C# for the heavy lifting, all in an Azure-Docker-Kubernetes environment. 
-- 🌱 I’m currently learning Git and Docker.
+- 👀 I’m interested in Python w/ API's for OSINT 
+- 🌱 I’m currently learning Git, Docker, and Python.
 - 💞️ I’m looking to collaborate on - nothing at the moment.
 - 📫 How to reach me ***
 
