@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Stefan27182
-- 👀 I’m interested in Python w/ API's for OSINT 
-- 🌱 I’m currently learning Git, Docker, and Python.
+- 👀 I’m interested in Python, Julia, and R for Data Analytics. 
+- 🌱 I’m currently learning Git, Julia, and R.
 - 💞️ I’m looking to collaborate on - nothing at the moment.
-- 📫 How to reach me ***
+- 📫 How to reach me: stefan.github.notifications@gmail.com
 
 <!---
 Stefan27182/Stefan27182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
