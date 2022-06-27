@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stefan27182
 - 👀 I’m interested in R for Data Analytics. 
-- 🌱 I’m currently learning Git, Julia, and R.
+- 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on - nothing at the moment.
 - 📫 How to reach me: https://stefanswriting.com/contact-page/
 
