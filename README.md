@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stefan27182
 - 👀 I’m interested in R for Data Analytics. 
-- 🌱 I’m currently learning R.
+- 🌱 I’m currently using R for analytics and visualization, but I'm using Pythong for the heavy lift cleaning before handing the data frame off to R.
 - 💞️ I’m looking to collaborate on - nothing at the moment.
 - 📫 How to reach me: https://stefanswriting.com/contact-page/
 
